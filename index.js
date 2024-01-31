@@ -72,3 +72,5 @@ app.use("/api/users", userRoute);
  * calls. */
 app.use(errorHandler);
 app.listen(port,()=>{console.log(`Server is runnning on port ${port}`)})
+
+module.exports = app;
