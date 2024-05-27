@@ -1,6 +1,3 @@
-
----
-
 # Location-based Service API
 
 This API provides endpoints for handling location-based services, including collecting GPS coordinates, calculating distances between coordinates, finding the closest recorded location, and managing user authentication.
